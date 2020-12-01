@@ -36,3 +36,15 @@ for (var i=0; i<questions.length; i++){
   var currentQuestion = questions[i];
   letssee(currentQuestion.question, currentQuestion.answer)
 }
+if (score== 3){
+    console.log("Great Buddy ❤");
+  }else if(score==2){
+    console.log("Cool 😁");
+  }else if(score==1){
+    console.log("Nice 🙂");
+  }else{
+    console.log("Koi na 😉");
+  }
+  
+  
+  console.log("You have SCORED:", score);
