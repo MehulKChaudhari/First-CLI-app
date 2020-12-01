@@ -1,3 +1,3 @@
 #My Quiz
 
-This Quiz will tell how well do yu know.
+This Quiz will tell how well do you know.
